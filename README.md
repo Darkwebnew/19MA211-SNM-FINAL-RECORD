@@ -169,8 +169,7 @@ for i in range (1,10):
  y0=y
  z=1/5*(3-x0-y0)
  z0=z
-print ("The approximate solution of x = %.4f, y= %.4f, z=%.4f"% (x, y,
-z))
+print ("The approximate solution of x = %.4f, y= %.4f, z=%.4f"% (x, y,z))
 ```
 
 <br>
